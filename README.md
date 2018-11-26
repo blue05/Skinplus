@@ -2,6 +2,7 @@ Material Science
 > Course
 >
 >> [MIT 3.054 Cellular Solids: Structure, Properties](https://www.youtube.com/watch?v=hOZ6-geaRUo&list=PLUl4u3cNGP611bupB7ohUYEScjWb60mWW/)
+>>>1 Introduction and Overview 11/27/18
 >
 > Wiki
 >
