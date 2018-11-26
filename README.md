@@ -60,16 +60,18 @@ Mathematics
 >>>
 >>>[Using the Point-On-Curve Block : Flapping Wing Mechanism](https://www.mathworks.com/examples/simmechanics/mw/sm_product-sm_cam_flapping_wing-using-the-point-on-curve-block-flapping-wing-mechanism)
 >>>
->>>[MATLAB Arduino Tutorial 11 - 3-D object creation and animation in MATLAB using hgtransform()](https://www.youtube.com/watch?v=fVgL79zAHEQ）
+>>>[MATLAB Arduino Tutorial 11 - 3-D object creation and animation in MATLAB using hgtransform()](https://www.youtube.com/watch?v=fVgL79zAHEQ)
 >>>
->>>[MATLAB 机器学习](https://ww2.mathworks.cn/campaigns/offers/machine-learning-with-matlab.confirmation.html?elqsid=1542110055073&potential_use=Student）
+>>>[MATLAB 机器学习](https://ww2.mathworks.cn/campaigns/offers/machine-learning-with-matlab.confirmation.html?elqsid=1542110055073&potential_use=Student)
 >>>
 >Books
 >>
 >>[我和数学有约:趣味数学及算法解析](https://books.google.co.jp/books?id=C4M4DwAAQBAJ&pg=PA2&lpg=PA2&dq=matlab+2D+%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B&source=bl&ots=qOj64vAWNf&sig=G1RNGc0qlLkbG0HWXAGlY6GMhps&hl=en&sa=X&ved=2ahUKEwjstIuWuvLeAhUEx7wKHajoAY4Q6AEwFXoECAAQAQ#v=onepage&q=matlab%202D%20%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B&f=false)
 >>
 >Math
+>
 >>[ALGEBRA](http://emweb.unl.edu/Math/mathweb/algebra/algesb97.html)
+>>
 >Wiki
 >
 >>[Mathematical_model](https://en.wikipedia.org/wiki/Mathematical_model)
