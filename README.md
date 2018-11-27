@@ -1,8 +1,4 @@
 Material Science
-> Analysis
->
->>[3D Finite Element Analysis with MATLAB](https://www.youtube.com/watch?v=4c-sPXolD0w）
->>
 > Course
 >
 >> [MIT 3.054 Cellular Solids: Structure, Properties](https://www.youtube.com/watch?v=hOZ6-geaRUo&list=PLUl4u3cNGP611bupB7ohUYEScjWb60mWW/)
@@ -16,6 +12,7 @@ Material Science
 >>>
 >>[结构几何造型分析](https://www.bilibili.com/video/av27456737/)
 >>
+>>[Microfluidics 101: How to Make PDMS](https://www.youtube.com/watch?v=6zG4utI40Kw)
 > Wiki
 >
 >> [Sponge](https://en.wikipedia.org/wiki/Sponge)
@@ -49,21 +46,32 @@ Composites as Pneumatic Actuators](https://gmwgroup.harvard.edu/pubs/pdf/1145.pd
 >>
 >>>[Soft dielectric elastomer actuator micropump](https://www.sciencedirect.com/science/article/pii/S0924424716311967?fbclid=IwAR22uJSxIOU9rEhUlHG3wC3k1mSLm10Q7DoCf0Y1chQITx0K8hL_0pxS0V0)
 >>>
->>[Digital Fabrication Technologies](https://hci.cs.uni-saarland.de/research/)
+>Fabrics
+>
+>>[fabric-101-double-cloth-and-double-face-fabrics](https://www.moodfabrics.com/blog/fabric-101-double-cloth-and-double-face-fabrics/)
 >>
->>[Friction](http://bdml.stanford.edu/oldweb/touch/publications/richard_thesis.pdf)
+>>[生体電極用導電性ナノファイバー編物](https://www.toray.co.jp/products/textiles/tex_0210.html)
 >>
->>[Research-bioLogic](http://transformingmaterials.com/Research-bioLogic)
+>>[コアブリッド™B](https://www.m-chemical.co.jp/products/departments/mcc/fibersmat/product/1200515_7298.html)
 >>
->>[movelet](https://shiropen.com/seamless/movelet)
+>>[防静电面料的纺织静电材料](https://zhidao.baidu.com/question/266748933452950205.html)
 >>
->>[]()
->Tools
+>>[导电布](https://baike.baidu.com/item/%E5%AF%BC%E7%94%B5%E5%B8%83/8718223?fr=aladdin)
+>>
+>>[Ultra -thin electrically conductive cloth shielding surface fabric](https://patents.google.com/patent/CN205046403U/en?assignee=%E5%90%B4%E6%B1%9F%E5%B8%82%E9%9B%AA%E5%B0%94%E7%BE%8E%E7%BA%BA%E7%BB%87%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
+>>
+>>[インターネットの糸屋さん『ボビン』　](https://itoyasan-bobin.com/)>Tools
 >
 >>Fusion 360
 >>
 >>>[Joints](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-A83EFB3E-E7C4-4B78-A842-59069004BDC0)
 >>>
+>>>[How-to-Design-Snap-Fit-Components](https://www.core77.com/posts/65318/How-to-Design-Snap-Fit-Components)
+>>>
+>>>[openhandproject](http://www.openhandproject.org/downloads.php)
+>>>
+>>>>[hand model](https://www.thingiverse.com/thing:287638)
+>>>>
 Mathematics
 >Mathematical Models
 >>
