@@ -1,7 +1,7 @@
 Material Science
 > Analysis
 >
->>[3D Finite Element Analysis with MATLAB](https://www.youtube.com/watch?v=4c-sPXolD0w）
+>>[3D Finite Element Analysis with MATLAB](https://www.youtube.com/watch?v=4c-sPXolD0w)
 >>
 > Course
 >
@@ -50,6 +50,14 @@ Composites as Pneumatic Actuators](https://gmwgroup.harvard.edu/pubs/pdf/1145.pd
 >>
 >>>[Soft dielectric elastomer actuator micropump](https://www.sciencedirect.com/science/article/pii/S0924424716311967?fbclid=IwAR22uJSxIOU9rEhUlHG3wC3k1mSLm10Q7DoCf0Y1chQITx0K8hL_0pxS0V0)
 >>>
+>>[Digital Fabrication Technologies](https://hci.cs.uni-saarland.de/research/)
+>>
+>>[Friction](http://bdml.stanford.edu/oldweb/touch/publications/richard_thesis.pdf)
+>>
+>>[Research-bioLogic](http://transformingmaterials.com/Research-bioLogic)
+>>
+>>[movelet](https://shiropen.com/seamless/movelet)
+>>
 >Fabrics
 >
 >>[fabric-101-double-cloth-and-double-face-fabrics](https://www.moodfabrics.com/blog/fabric-101-double-cloth-and-double-face-fabrics/)
