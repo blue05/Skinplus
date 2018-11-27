@@ -73,7 +73,9 @@ Composites as Pneumatic Actuators](https://gmwgroup.harvard.edu/pubs/pdf/1145.pd
 >>
 >>[Ultra -thin electrically conductive cloth shielding surface fabric](https://patents.google.com/patent/CN205046403U/en?assignee=%E5%90%B4%E6%B1%9F%E5%B8%82%E9%9B%AA%E5%B0%94%E7%BE%8E%E7%BA%BA%E7%BB%87%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
 >>
->>[インターネットの糸屋さん『ボビン』　](https://itoyasan-bobin.com/)>Tools
+>>[インターネットの糸屋さん『ボビン』　](https://itoyasan-bobin.com/)
+>
+>Tools
 >
 >>Fusion 360
 >>
