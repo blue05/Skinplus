@@ -1,4 +1,8 @@
 Material Science
+> Analysis
+>
+>>[3D Finite Element Analysis with MATLAB](https://www.youtube.com/watch?v=4c-sPXolD0w）
+>>
 > Course
 >
 >> [MIT 3.054 Cellular Solids: Structure, Properties](https://www.youtube.com/watch?v=hOZ6-geaRUo&list=PLUl4u3cNGP611bupB7ohUYEScjWb60mWW/)
@@ -11,7 +15,7 @@ Material Science
 >>>>[*video](https://www.youtube.com/watch?v=OQ5lVjYssko)
 >>>
 >>[结构几何造型分析](https://www.bilibili.com/video/av27456737/)
->
+>>
 > Wiki
 >
 >> [Sponge](https://en.wikipedia.org/wiki/Sponge)
@@ -23,6 +27,7 @@ Material Science
 >>[Infinitesimal_strain_theory](https://en.wikipedia.org/wiki/Infinitesimal_strain_theory)
 >
 >Actuators
+>
 >>SMA Actuator
 >>
 >>>[KRL](https://www.kelloggsresearchlabs.com/)
@@ -44,6 +49,15 @@ Composites as Pneumatic Actuators](https://gmwgroup.harvard.edu/pubs/pdf/1145.pd
 >>
 >>>[Soft dielectric elastomer actuator micropump](https://www.sciencedirect.com/science/article/pii/S0924424716311967?fbclid=IwAR22uJSxIOU9rEhUlHG3wC3k1mSLm10Q7DoCf0Y1chQITx0K8hL_0pxS0V0)
 >>>
+>>[Digital Fabrication Technologies](https://hci.cs.uni-saarland.de/research/)
+>>
+>>[Friction](http://bdml.stanford.edu/oldweb/touch/publications/richard_thesis.pdf)
+>>
+>>[Research-bioLogic](http://transformingmaterials.com/Research-bioLogic)
+>>
+>>[movelet](https://shiropen.com/seamless/movelet)
+>>
+>>[]()
 >Tools
 >
 >>Fusion 360
