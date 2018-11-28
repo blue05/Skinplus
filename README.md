@@ -2,6 +2,8 @@ Haptics
 >basics
 >>[Pursuing prosthetic electronic skin](https://www.nature.com/articles/nmat4671)
 >>
+>>[khan- skin](https://www.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology#integumentary-system-introduction)
+>>
 Material Science
 > Analysis
 >
