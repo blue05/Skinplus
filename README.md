@@ -4,9 +4,9 @@ Haptics
 >>
 >>[khan- skin](https://www.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology#integumentary-system-introduction)
 >>
->>TED
->>>[Sebastian Seung: I am my connectome](https://www.youtube.com/watch?time_continue=1156&v=HA7GwKXfJB0)
->>>
+>TED
+>>[Sebastian Seung: I am my connectome](https://www.youtube.com/watch?time_continue=1156&v=HA7GwKXfJB0)
+>>
 Material Science
 > Analysis
 >
