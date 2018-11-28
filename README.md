@@ -5,7 +5,7 @@ Material Science
 >>
 > Course
 >
->> [MIT 3.054 Cellular Solids: Structure, Properties](https://www.youtube.com/watch?v=hOZ6-geaRUo&list=PLUl4u3cNGP611bupB7ohUYEScjWb60mWW/)
+>> [MIT 3.054 Cellular Solids: Structure, Properties](https://ocw.mit.edu/courses/materials-science-and-engineering/3-054-cellular-solids-structure-properties-and-applications-spring-2015/)
 >>>1 Introduction and Overview 11/27/18
 >>
 >>[Teaching Materials](https://www.phase-trans.msm.cam.ac.uk/teaching.html)
