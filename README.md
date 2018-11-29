@@ -72,6 +72,9 @@ Composites as Pneumatic Actuators](https://gmwgroup.harvard.edu/pubs/pdf/1145.pd
 >>>
 >>>[An Overview of Novel Actuators for Soft Robotics](https://www.mdpi.com/2076-0825/7/3/48/pdf)
 >>>
+>>>[Development of Soft-Actuator-Based Wearable
+Tactile Display](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4509449)
+>>>
 >>Related Work
 >>>[Digital Fabrication Technologies](https://hci.cs.uni-saarland.de/research/)
 >>>
