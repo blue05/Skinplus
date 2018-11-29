@@ -1,3 +1,7 @@
+Electronics
+>wiki
+>>(I2C)[https://en.wikipedia.org/wiki/I%C2%B2C]
+>>
 Haptics
 >basics
 >>[Pursuing prosthetic electronic skin](https://www.nature.com/articles/nmat4671)
