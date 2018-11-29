@@ -68,6 +68,8 @@ Composites as Pneumatic Actuators](https://gmwgroup.harvard.edu/pubs/pdf/1145.pd
 >>>
 >>>[fabrication-process-of-silicone-based-dielectric-elastomer-actuators](https://www.jove.com/video/53423/fabrication-process-of-silicone-based-dielectric-elastomer-actuators)
 >>>
+>>>[An Overview of Novel Actuators for Soft Robotics](https://www.mdpi.com/2076-0825/7/3/48/pdf)
+>>>
 >>Related Work
 >>>[Digital Fabrication Technologies](https://hci.cs.uni-saarland.de/research/)
 >>>
