@@ -81,8 +81,6 @@ Composites as Pneumatic Actuators](https://gmwgroup.harvard.edu/pubs/pdf/1145.pd
 >>>
 >>>[movelet](https://shiropen.com/seamless/movelet)
 >>>
->>>[bioLogic](http://transformingmaterials.com/Research-bioLogic)
->>>
 >Fabrics
 >
 >>[fabric-101-double-cloth-and-double-face-fabrics](https://www.moodfabrics.com/blog/fabric-101-double-cloth-and-double-face-fabrics/)
