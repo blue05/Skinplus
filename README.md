@@ -31,6 +31,8 @@ Material Science
 >>
 >Wiki
 >
+>>[Young's_modulus](https://en.wikipedia.org/wiki/Young%27s_modulus)
+>>
 >> [Sponge](https://en.wikipedia.org/wiki/Sponge)
 >>
 >> [Venus' flower basket](https://en.wikipedia.org/wiki/Venus%27_flower_basket)
@@ -61,6 +63,10 @@ Composites as Pneumatic Actuators](https://gmwgroup.harvard.edu/pubs/pdf/1145.pd
 >>Dielectric Elastomer Actuator
 >>
 >>>[Soft dielectric elastomer actuator micropump](https://www.sciencedirect.com/science/article/pii/S0924424716311967?fbclid=IwAR22uJSxIOU9rEhUlHG3wC3k1mSLm10Q7DoCf0Y1chQITx0K8hL_0pxS0V0)
+>>>
+>>>[APA_electrodes_for_DEA](https://infoscience.epfl.ch/record/182270/files/APA_electrodes_for_DEA.pdf)
+>>>
+>>>[fabrication-process-of-silicone-based-dielectric-elastomer-actuators](https://www.jove.com/video/53423/fabrication-process-of-silicone-based-dielectric-elastomer-actuators)
 >>>
 >>Related Work
 >>>[Digital Fabrication Technologies](https://hci.cs.uni-saarland.de/research/)
