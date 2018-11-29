@@ -1,6 +1,6 @@
 Electronics
 >wiki
->>(I2C)[https://en.wikipedia.org/wiki/I%C2%B2C]
+>>[I2C](https://en.wikipedia.org/wiki/I%C2%B2C)
 >>
 Haptics
 >basics
