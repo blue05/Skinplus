@@ -62,6 +62,8 @@ Composites as Pneumatic Actuators](https://gmwgroup.harvard.edu/pubs/pdf/1145.pd
 >>>
 >>Dielectric Elastomer Actuator
 >>
+>>>[Origin of large field-induced strain of azobenzene/polyurethane blend dielectric elastomers(https://pubs.rsc.org/en/content/articlehtml/2015/ra/c5ra13936h)
+>>>
 >>>[Soft dielectric elastomer actuator micropump](https://www.sciencedirect.com/science/article/pii/S0924424716311967?fbclid=IwAR22uJSxIOU9rEhUlHG3wC3k1mSLm10Q7DoCf0Y1chQITx0K8hL_0pxS0V0)
 >>>
 >>>[APA_electrodes_for_DEA](https://infoscience.epfl.ch/record/182270/files/APA_electrodes_for_DEA.pdf)
