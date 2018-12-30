@@ -90,6 +90,9 @@ Tactile Display](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4509449)
 >>>
 >Fabrics
 >
+>>[Everything You Need To Know About Fabrics & Fabric Types | Sewing 101](https://sewing.com/fabric-types-everything-you-need-to-know/)
+>>>[fabric-101-infographic](https://i2.wp.com/www.blinds.com/blog/wp-content/uploads/2014/09/fabrics-101-inforgraphic.jpg?ssl=1)
+>>
 >>[fabric-101-double-cloth-and-double-face-fabrics](https://www.moodfabrics.com/blog/fabric-101-double-cloth-and-double-face-fabrics/)
 >>
 >>[生体電極用導電性ナノファイバー編物](https://www.toray.co.jp/products/textiles/tex_0210.html)
