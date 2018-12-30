@@ -2,9 +2,53 @@
 A.Fabrics 101
 >a. Fabric Types
 >>1. choose a fiber
+>>>natural fibers
+>>>>
+>>>>cotton
+>>>>
+>>>>flax/linen
+>>>>
+>>>>jute/bamboo
+>>>>
+>>>>wool
+>>>>
+>>>>silk
+>>>>
+>>>manmade fibers
+>>>>
+>>>>polyester/vinyl
+>>>>
+>>>>rayon/cellulose
+>>>>
+>>>>fiberglass
+>>>>
 >>2. choose a material
+>>>![](https://slideplayer.com/slide/6659469/23/images/59/Filament+and+Staple.jpg)
+>>>
+>>>staple fiber
+>>>>![](https://5.imimg.com/data5/MJ/IU/MY-22664626/polyester-staple-fiber-500x500.jpg)
+>>>
+>>>filament fiber
+>>>>![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Glasfaser_Roving.jpg/220px-Glasfaser_Roving.jpg)
+>>>
 >>3. choose a construction style
+>>>
+>>>non-woven
+>>>
+>>>woven
+>>>>![](https://blog.dutchlabelshop.com/blog/wp-content/uploads/2017/08/45482365.jpeg)
+>>>
+>>>knitted
+>>>>![](https://blog.dutchlabelshop.com/blog/wp-content/uploads/2017/08/13807151.jpeg)
+>>>
 >>4. a design + color
+>>>piece dyed 染色布
+>>>
+>>>yarn dyed 纱染后织成布
+>>>
+>>>woven in
+>>>
+>>>printed
 >
 >b. Know Your Fabrics
 >>canvas
