@@ -69,10 +69,14 @@ Skin+
 >>>>comparative study
 >>>>
 >>>Application
->>>>Reality(environment)
+>>>>remote body touch in the local environment(analog input: distance)
 >>>>
->>>>VR
+>>>>notifications(digital input: events)
+>>>>
+>>>>music practice(for example, digital input: body touch on one forearm without the device, to feel if it is pitchy )
+>>>>
 >References
+>>
 >>a list of the research field's principal literature used for the research
 >>>
 >>the names of the persons and units participating in the research project
