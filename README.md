@@ -88,6 +88,8 @@ Tactile Display](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4509449)
 >>>
 >>>[movelet](https://shiropen.com/seamless/movelet)
 >>>
+>Auxetics
+>>
 >Fabrics
 >
 >>[Everything You Need To Know About Fabrics & Fabric Types | Sewing 101](https://sewing.com/fabric-types-everything-you-need-to-know/)
