@@ -88,6 +88,8 @@ Tactile Display](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4509449)
 >>>
 >>>[movelet](https://shiropen.com/seamless/movelet)
 >>>
+>>>[embodisuit](http://www.rachelfreire.com/embodisuit)
+>>>
 >Auxetics
 >>
 >Fabrics
